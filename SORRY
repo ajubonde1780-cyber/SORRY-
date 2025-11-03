@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>I'm Sorry</title>
+  <style>
+    body {
+      background: #f6f7fb;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 100vh;
+      margin: 0;
+    }
+    .container {
+      background: #fff;
+      border-radius: 16px;
+      padding: 40px 32px;
+      box-shadow: 0 2px 12px rgba(44,62,80,0.12);
+      max-width: 450px;
+      text-align: center;
+    }
+    h1 {
+      font-size: 2.4rem;
+      color: #d32f2f;
+      margin-bottom: 20px;
+    }
+    p {
+      font-size: 1.08rem;
+      color: #444;
+      margin-bottom: 28px;
+    }
+    .signature {
+      color: #777;
+      font-size: 1rem;
+      margin-top: 24px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>I'm Sorry</h1>
+    <p>
+      I know my actions and my suspicions have truly hurt you, and for that I am honestly sorry.<br>
+      I’ve been an asshole and allowed my insecurities to take over, ruining what we had together.<br>
+      You didn’t deserve my doubt and you never deserved the way I treated you.<br>
+      I take responsibility for my behavior and I regret the pain I’ve caused.<br>
+      I promise to learn from this and be better, if you’ll give me a chance.<br>
+      I care about you deeply and all I want is to make things right.
+    </p>
+    <div class="signature">— [Your Name]</div>
+  </div>
+</body>
+</html>
